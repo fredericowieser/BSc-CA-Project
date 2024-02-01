@@ -1,0 +1,796 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.1.31)  2 FEB 2021 01:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count185
+\calc@Bcount=\count186
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count187
+\calc@Cskip=\skip51
+)
+(/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen141
+\ESO@tempdimb=\dimen142
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\AM@pagewidth=\dimen145
+\AM@pageheight=\dimen146
+
+(/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box47
+\AM@global@opts=\toks18
+\AM@pagecnt=\count188
+\AM@toc@title=\toks19
+\c@AM@survey=\count189
+\AM@templatesizebox=\box48
+)
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks20
+\MT@count=\count190
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen147
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count191
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip52
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count192
+\float@exts=\toks21
+\float@box=\box49
+\@float@everytoks=\toks22
+\@floatcapt=\box50
+)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen148
+\captionmargin@=\dimen149
+\captionwidth=\dimen150
+\caption@tempdima=\dimen151
+\caption@indent=\dimen152
+\caption@parindent=\dimen153
+\caption@hangindent=\dimen154
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+Package caption Info: float package is loaded.
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count195
+\c@subtable=\count196
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count197
+\l__pdf_internal_box=\box51
+)
+No file main.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen155
+\scratchbox=\box52
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen156
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks24
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Info: Redefining \microtypecontext on input line 15.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 15.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+
+
+LaTeX Warning: Citation `proj' on page 1 undefined on input line 22.
+
+
+LaTeX Warning: Citation `proj' on page 1 undefined on input line 24.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `proj' on page 2 undefined on input line 36.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 38.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
+
+ []
+
+
+LaTeX Warning: Citation `numpy' on page 2 undefined on input line 43.
+
+
+LaTeX Warning: Citation `matplot' on page 2 undefined on input line 43.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+LaTeX Warning: Reference `eqn1' on page 2 undefined on input line 47.
+
+
+LaTeX Warning: Citation `labbook' on page 2 undefined on input line 49.
+
+<Program 1 Exploration.pdf, id=13, 722.7pt x 722.7pt>
+File: Program 1 Exploration.pdf Graphic file (type pdf)
+<use Program 1 Exploration.pdf>
+Package pdftex.def Info: Program 1 Exploration.pdf  used on input line 54.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+
+Overfull \hbox (16.3491pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 58--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--71
+
+ []
+
+[3 <./Program 1 Exploration.pdf>]
+
+LaTeX Warning: Citation `proj' on page 4 undefined on input line 73.
+
+
+LaTeX Warning: Reference `fig:prog21' on page 4 undefined on input line 78.
+
+<program21.pdf, id=95, 462.52798pt x 346.89601pt>
+File: program21.pdf Graphic file (type pdf)
+<use program21.pdf>
+Package pdftex.def Info: program21.pdf  used on input line 81.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--83
+
+ []
+
+[4]
+
+LaTeX Warning: Reference `fig:prog22' on page 5 undefined on input line 88.
+
+
+LaTeX Warning: Citation `rule30' on page 5 undefined on input line 88.
+
+<program22.pdf, id=99, 462.52798pt x 346.89601pt>
+File: program22.pdf Graphic file (type pdf)
+<use program22.pdf>
+Package pdftex.def Info: program22.pdf  used on input line 91.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--93
+
+ []
+
+[5 <./program21.pdf>]
+
+LaTeX Warning: Citation `conway' on page 6 undefined on input line 97.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
+
+ []
+
+[6 <./program22.pdf>]
+
+LaTeX Warning: Reference `fig:box' on page 7 undefined on input line 111.
+
+<Conway_Box_FIRST.pdf, id=164, 433.62pt x 289.08pt>
+File: Conway_Box_FIRST.pdf Graphic file (type pdf)
+<use Conway_Box_FIRST.pdf>
+Package pdftex.def Info: Conway_Box_FIRST.pdf  used on input line 117.
+(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
+
+Overfull \hbox (0.94492pt too wide) in paragraph at lines 117--118
+ [][] 
+ []
+
+<Conway_Box_LAST.pdf, id=165, 433.62pt x 289.08pt>
+File: Conway_Box_LAST.pdf Graphic file (type pdf)
+<use Conway_Box_LAST.pdf>
+Package pdftex.def Info: Conway_Box_LAST.pdf  used on input line 122.
+(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
+
+Overfull \hbox (0.94492pt too wide) in paragraph at lines 122--123
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `fig:ran' on page 7 undefined on input line 128.
+
+[7 <./Conway_Box_FIRST.pdf> <./Conway_Box_LAST.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Conway_Box_LAST.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+>]
+<Conway_Random_first.pdf, id=195, 433.62pt x 289.08pt>
+File: Conway_Random_first.pdf Graphic file (type pdf)
+<use Conway_Random_first.pdf>
+Package pdftex.def Info: Conway_Random_first.pdf  used on input line 134.
+(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
+
+Overfull \hbox (0.94492pt too wide) in paragraph at lines 134--135
+ [][] 
+ []
+
+<Conway_Random_last.pdf, id=196, 433.62pt x 289.08pt>
+File: Conway_Random_last.pdf Graphic file (type pdf)
+<use Conway_Random_last.pdf>
+Package pdftex.def Info: Conway_Random_last.pdf  used on input line 139.
+(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
+
+Overfull \hbox (0.94492pt too wide) in paragraph at lines 139--140
+ [][] 
+ []
+
+[8 <./Conway_Random_first.pdf> <./Conway_Random_last.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Conway_Random_last.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
+
+ []
+
+
+LaTeX Warning: Reference `fig:initial_fire' on page 9 undefined on input line 1
+72.
+
+<Initial Forest Fire.pdf, id=226, 1084.05pt x 578.16pt>
+File: Initial Forest Fire.pdf Graphic file (type pdf)
+<use Initial Forest Fire.pdf>
+Package pdftex.def Info: Initial Forest Fire.pdf  used on input line 176.
+(pdftex.def)             Requested size: 325.21751pt x 173.44933pt.
+[9]
+Overfull \hbox (103.36487pt too wide) detected at line 184
+\OML/cmm/m/it/10 p \OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 001\OM
+L/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 05\OML/cmm/m
+/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ;
+ \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 ; \OT1/c
+mr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/1
+0 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 25\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML
+/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/i
+t/10 :\OT1/cmr/m/n/10 35\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\
+OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/
+m/n/10 45\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 
+5\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 55\OML/c
+mm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 6\OML/cmm/m/it/
+10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 65\OML/cmm/m/it/10 ; \O
+T1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 75\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0
+\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm
+/m/it/10 :\OT1/cmr/m/n/10 85\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/1
+0 :\OT1/cmr/m/n/10 9\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/
+cmr/m/n/10 95\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n
+/10 99)
+ []
+
+
+Overfull \hbox (119.30592pt too wide) detected at line 187
+\OML/cmm/m/it/10 f \OT1/cmr/m/n/10 = (0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 00025\
+OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 05\OML/cmm
+/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1\OML/cmm/m/it/10
+ ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 ; \OT1
+/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n
+/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 25\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\O
+ML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m
+/it/10 :\OT1/cmr/m/n/10 35\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 
+:\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cm
+r/m/n/10 45\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/1
+0 5\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 55\OML
+/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 6\OML/cmm/m/i
+t/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 65\OML/cmm/m/it/10 ; 
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 ; \OT1/cmr
+/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 75\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10
+ 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/c
+mm/m/it/10 :\OT1/cmr/m/n/10 85\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it
+/10 :\OT1/cmr/m/n/10 9\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT
+1/cmr/m/n/10 95\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m
+/n/10 999)
+ []
+
+
+LaTeX Warning: Reference `fig:live' on page 10 undefined on input line 191.
+
+<Live Mean.pdf, id=230, 462.52798pt x 346.89601pt>
+File: Live Mean.pdf Graphic file (type pdf)
+<use Live Mean.pdf>
+Package pdftex.def Info: Live Mean.pdf  used on input line 196.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 196--198
+ [][] 
+ []
+
+<Live STD.pdf, id=231, 462.52798pt x 346.89601pt>
+File: Live STD.pdf Graphic file (type pdf)
+<use Live STD.pdf>
+Package pdftex.def Info: Live STD.pdf  used on input line 201.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 201--203
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--205
+
+ []
+
+<Live Mean 3D.pdf, id=232, 462.52798pt x 346.89601pt>
+File: Live Mean 3D.pdf Graphic file (type pdf)
+<use Live Mean 3D.pdf>
+Package pdftex.def Info: Live Mean 3D.pdf  used on input line 208.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+[10 <./Initial Forest Fire.pdf>]
+
+LaTeX Warning: Reference `fig:dead' on page 11 undefined on input line 211.
+
+<Dead Mean.pdf, id=270, 462.52798pt x 346.89601pt>
+File: Dead Mean.pdf Graphic file (type pdf)
+<use Dead Mean.pdf>
+Package pdftex.def Info: Dead Mean.pdf  used on input line 216.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 216--218
+ [][] 
+ []
+
+<Dead STD.pdf, id=271, 462.52798pt x 346.89601pt>
+File: Dead STD.pdf Graphic file (type pdf)
+<use Dead STD.pdf>
+Package pdftex.def Info: Dead STD.pdf  used on input line 221.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 221--223
+ [][] 
+ []
+
+<Dead Mean 3D.pdf, id=272, 462.52798pt x 346.89601pt>
+File: Dead Mean 3D.pdf Graphic file (type pdf)
+<use Dead Mean 3D.pdf>
+Package pdftex.def Info: Dead Mean 3D.pdf  used on input line 228.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+[11 <./Live Mean.pdf> <./Live STD.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Live STD.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./Live Mean 3D.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Live Mean 3D.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig:burn' on page 12 undefined on input line 231.
+
+<Burning Mean.pdf, id=392, 462.52798pt x 346.89601pt>
+File: Burning Mean.pdf Graphic file (type pdf)
+<use Burning Mean.pdf>
+Package pdftex.def Info: Burning Mean.pdf  used on input line 236.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 236--238
+ [][] 
+ []
+
+<Burning STD.pdf, id=393, 462.52798pt x 346.89601pt>
+File: Burning STD.pdf Graphic file (type pdf)
+<use Burning STD.pdf>
+Package pdftex.def Info: Burning STD.pdf  used on input line 241.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 241--243
+ [][] 
+ []
+
+<Burning Mean 3D.pdf, id=394, 462.52798pt x 346.89601pt>
+File: Burning Mean 3D.pdf Graphic file (type pdf)
+<use Burning Mean 3D.pdf>
+Package pdftex.def Info: Burning Mean 3D.pdf  used on input line 248.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+[12 <./Dead Mean.pdf> <./Dead STD.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Dead STD.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./Dead Mean 3D.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Dead Mean 3D.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<Live Mean 2.pdf, id=513, 462.52798pt x 346.89601pt>
+File: Live Mean 2.pdf Graphic file (type pdf)
+<use Live Mean 2.pdf>
+Package pdftex.def Info: Live Mean 2.pdf  used on input line 264.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 264--266
+ [][] 
+ []
+
+<Live STD 2.pdf, id=514, 462.52798pt x 346.89601pt>
+File: Live STD 2.pdf Graphic file (type pdf)
+<use Live STD 2.pdf>
+Package pdftex.def Info: Live STD 2.pdf  used on input line 269.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 269--271
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--272
+
+ []
+
+[13 <./Burning Mean.pdf> <./Burning STD.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Burning STD.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./Burning Mean 3D.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Burning Mean 3D.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+>]
+<Live Mean 3D 2.pdf, id=638, 462.52798pt x 346.89601pt>
+File: Live Mean 3D 2.pdf Graphic file (type pdf)
+<use Live Mean 3D 2.pdf>
+Package pdftex.def Info: Live Mean 3D 2.pdf  used on input line 275.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+<Dead Mean 2.pdf, id=639, 462.52798pt x 346.89601pt>
+File: Dead Mean 2.pdf Graphic file (type pdf)
+<use Dead Mean 2.pdf>
+Package pdftex.def Info: Dead Mean 2.pdf  used on input line 283.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 283--285
+ [][] 
+ []
+
+<Dead STD 2.pdf, id=640, 462.52798pt x 346.89601pt>
+File: Dead STD 2.pdf Graphic file (type pdf)
+<use Dead STD 2.pdf>
+Package pdftex.def Info: Dead STD 2.pdf  used on input line 288.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 288--290
+ [][] 
+ []
+
+<Dead Mean 3D 2.pdf, id=641, 462.52798pt x 346.89601pt>
+File: Dead Mean 3D 2.pdf Graphic file (type pdf)
+<use Dead Mean 3D 2.pdf>
+Package pdftex.def Info: Dead Mean 3D 2.pdf  used on input line 294.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+[14 <./Live Mean 2.pdf> <./Live STD 2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Live STD 2.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./Live Mean 3D 2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Live Mean 3D 2.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>]
+<Burning Mean 2.pdf, id=764, 462.52798pt x 346.89601pt>
+File: Burning Mean 2.pdf Graphic file (type pdf)
+<use Burning Mean 2.pdf>
+Package pdftex.def Info: Burning Mean 2.pdf  used on input line 302.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 302--304
+ [][] 
+ []
+
+<Burning STD 2.pdf, id=765, 462.52798pt x 346.89601pt>
+File: Burning STD 2.pdf Graphic file (type pdf)
+<use Burning STD 2.pdf>
+Package pdftex.def Info: Burning STD 2.pdf  used on input line 307.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (12.5079pt too wide) in paragraph at lines 307--309
+ [][] 
+ []
+
+<Burning Mean 3D 2.pdf, id=766, 462.52798pt x 346.89601pt>
+File: Burning Mean 3D 2.pdf Graphic file (type pdf)
+<use Burning Mean 3D 2.pdf>
+Package pdftex.def Info: Burning Mean 3D 2.pdf  used on input line 314.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+[15 <./Dead Mean 2.pdf> <./Dead STD 2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Dead STD 2.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./Dead Mean 3D 2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Dead Mean 3D 2.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>]
+No file main.bbl.
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--327
+
+ []
+
+[16 <./Burning Mean 2.pdf> <./Burning STD 2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Burning STD 2.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./Burning Mean 3D 2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Burning Mean 3D 2.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+>] [17] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5717 strings out of 479383
+ 94458 string characters out of 5875830
+ 412239 words of memory out of 5000000
+ 22682 multiletter control sequences out of 15000+600000
+ 410916 words of font info for 89 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 80i,10n,85p,1129b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texm
+f-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (17 pages, 1158328 bytes).
+PDF statistics:
+ 1051 PDF objects out of 1200 (max. 8388607)
+ 266 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 13443 words of extra memory for PDF output out of 14400 (max. 10000000)
+
